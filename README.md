@@ -1,2 +1,5 @@
 # HelloWorld
-This is my first github's repository
+=================
+Hi erveryone!
+
+gitmanner here,I like Java and golang more
